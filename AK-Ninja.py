@@ -1119,7 +1119,7 @@ logo=("""\033[1;37m
    /' /\  \        |:  |  \\  \/   
   //  __'  \    ___|  /   /\.  \   
  /   /  \\  \  /  :|_/ ) /  \   \  
-(___/    \___)(_______/ |___/\___|        MUNEER°XD(⁠^⁠^⁠)
+(___/    \___)(_______/ |___/\___|        ALAHI°XD(⁠^⁠^⁠)
                                    
 """)
 def linex():
@@ -1916,7 +1916,6 @@ def ffb(ids,names,passlist):
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-US,en;q=0.9',
     'cache-control': 'max-age=0',
-    # 'cookie': 'datr=7i9FZfB4lBkOrFK78-Wiojt2; sb=7i9FZdj5E9tOsaSkgLvhmKeG; m_pixel_ratio=1.8000000715255737; wd=400x750; fr=0XTOvazWqz8SsAo8H..BlRS_u.iN.AAA.0.0.BlRidz.AWVqlss0b1c',
     'dpr': '1.8000000715255737',
     'sec-ch-prefers-color-scheme': 'dark',
     'sec-ch-ua': '"Not)A;Brand";v="24", "Chromium";v="116"',
